@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Dynamic Animated Typing Banner -->
-<a href="https://github.com/Pikachu0004/air">
+<a href="https://air-six-beta.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=2500&pause=800&color=E5322D&center=true&vCenter=true&multiline=true&width=850&height=100&lines=CHALLENGE+6%3A+URBAN+AIR+QUALITY+ASSISTANT;BUILT+BY+KISHAN+NISHAD+FOR+PROMPTWAR;REAL-TIME+TELEMETRY+%C2%B7+CADR+PHYSICS+%C2%B7+GEMINI+CLINICAL+AI" alt="AirLoop Animated Headline" />
 </a>
 
@@ -21,7 +21,7 @@
 
 ---
 
-[🚀 Live Demo](https://github.com/Pikachu0004/air) •
+[🚀 Live Demo](https://air-six-beta.vercel.app/) •
 [📖 Architecture](#-system-architecture) •
 [🧬 Core Innovations](#-why-airloop-is-fundamentally-different) •
 [⚡ Google Gemini Integration](#-google-technologies--gemini-ai-engine) •
@@ -39,7 +39,7 @@
 * **Hackathon**: **PromptWar**
 * **Challenge**: **Challenge 6 — Urban Air Quality Assistant**
 * **Author / Developer**: **Kishan Nishad** ([@Pikachu0004](https://github.com/Pikachu0004))
-* **Primary Repository**: [github.com/Pikachu0004/air](https://github.com/Pikachu0004/air.git)
+* **Primary Repository**: [github.com/Pikachu0004/Urbanair](https://air-six-beta.vercel.app/)
 * **Design Philosophy**: Cyber-tactical streetwear luxury (`#09090b` obsidian background, `#e5322d` thermal red accents, typography powered by **Google Fonts** *Anton*, *Oswald*, *Inter*, and *JetBrains Mono*).
 
 ---
@@ -269,8 +269,6 @@ Or connect the repository on [vercel.com/new](https://vercel.com/new):
 * **Project**: **AirLoop (Challenge 6: Urban Air Quality Assistant)**
 * **Developer**: **Kishan Nishad**
 * **GitHub**: [@Pikachu0004](https://github.com/Pikachu0004)
-* **Repository**: [https://github.com/Pikachu0004/air.git](https://github.com/Pikachu0004/air.git)
-
 ---
 
 <div align="center">
